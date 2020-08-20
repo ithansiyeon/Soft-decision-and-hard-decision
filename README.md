@@ -77,7 +77,7 @@
     <tr>
         <td>한시연</td>
         <td>경판정 코딩</td>
-        <td colspan="3">보고서 작성<</td>
+        <td colspan="3">보고서 작성</td>
     </tr>
     <tr>
         <td>차주연</td>
