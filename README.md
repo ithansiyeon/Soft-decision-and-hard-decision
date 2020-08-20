@@ -45,7 +45,7 @@
     </tr>
 </table>
 
-### :calendar: Schedule
+### :calendar: Result
 <center><img src="https://user-images.githubusercontent.com/66079830/89960517-36b25880-dc7a-11ea-94f8-bd76d2685ddd.png" width="740px" height="650px"></center>
 
 
