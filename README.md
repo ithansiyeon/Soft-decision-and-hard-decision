@@ -48,7 +48,7 @@
 ###  📼 Appearance
 경판정 결과 캡쳐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 연판정 결과 캡쳐
 
-<img src="https://user-images.githubusercontent.com/66079830/90981801-046bf980-e59e-11ea-912b-db6d6fa96236.png" width="400px" height="300px"><img src="https://user-images.githubusercontent.com/66079830/90981817-19e12380-e59e-11ea-99b2-7568c7b948f8.png" width="400px" height="300px">
+<img src="https://user-images.githubusercontent.com/66079830/90981801-046bf980-e59e-11ea-912b-db6d6fa96236.png" width="740px" height="300px"><img src="https://user-images.githubusercontent.com/66079830/90981817-19e12380-e59e-11ea-99b2-7568c7b948f8.png" width="400px" height="300px">
 
 
 
@@ -90,12 +90,14 @@
 
 ## 프로젝트 소감
 <table>
-    <tr>
+    <tr style="width:740px;>
         <th>한시연</th>
     </tr>
     <tr>
         <td>
-        경판정 & 연판정을 수업 시간에 이론적으로 이해하고 그림을 그렸던 것을, 매트랩으로 (2,1,4) 길쌈부호를 경판정,연판정 각각의 경우의 수를 생각하면서 코드를 짜면서 다시 한번 더 깊게         이해할 수 있는, 기회가 되었습니다. 또한, 프로젝트2를 팀원들과 토의를 통해서 완성함으로써 프로그래밍에 자신감도 생기고 매트랩이 좀 더 익숙해지며 매트랩에서 제공해 주는 function         과 그래프를 그리는 법에 대해서 더 자세히 알게 되는 계기가 되었습니다. 
+        경판정 & 연판정을 수업 시간에 이론적으로 이해하고 그림을 그렸던 것을, 매트랩으로 (2,1,4) 길쌈부호를 경판정,연판정 각각의 경우의 수를 생각하면서<br>
+        코드를 짜면서 다시 한번 더 깊게         이해할 수 있는, 기회가 되었습니다. 또한, 프로젝트2를 팀원들과 토의를 통해서 완성함으로써 프로그래밍에<br> 
+        자신감도 생기고 매트랩이 좀 더 익숙해지며 매트랩에서 제공해 주는 function과 그래프를 그리는 법에 대해서 더 자세히 알게 되는 계기가 되었습니다.<br>
         </td>
     </tr>
 </table>
