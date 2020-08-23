@@ -46,7 +46,8 @@
 </table>
 
 ### :calendar: Result
-<center><img src="https://user-images.githubusercontent.com/66079830/90981993-49446000-e59f-11ea-9035-cee95141ca0f.gif" width="500px" height="200px"></center>
+<h3>경판정 결과 캡쳐</h3>
+<center><img src="https://user-images.githubusercontent.com/66079830/90981801-046bf980-e59e-11ea-912b-db6d6fa96236.png" width="500px" height="200px"></center>
 
 
 ### 📼 Appearance
