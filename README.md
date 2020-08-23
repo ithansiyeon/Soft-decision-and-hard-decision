@@ -58,7 +58,7 @@
     </tr>
     <tr>
         <th colspan="4"><img width="740"
-                src="https://user-images.githubusercontent.com/66079830/90400057-d89ccf80-e0d6-11ea-9bfd-3a3f596fe6bc.gif">
+                src="https://user-images.githubusercontent.com/66079830/90981784-f322ed00-e59d-11ea-9201-b6606d0aff81.gif">
         </th>
     </tr>
 </table>
