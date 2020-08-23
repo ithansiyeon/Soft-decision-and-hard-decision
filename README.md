@@ -46,8 +46,9 @@
 </table>
 
 ### :calendar: Result
-<h3>경판정 결과 캡쳐</h3>
-<center><img src="https://user-images.githubusercontent.com/66079830/90981801-046bf980-e59e-11ea-912b-db6d6fa96236.png" width="500px" height="200px"></center>
+경판정 결과 캡쳐                       연판정 결과 
+<center><img src="https://user-images.githubusercontent.com/66079830/90981801-046bf980-e59e-11ea-912b-db6d6fa96236.png" width="500px" height="200px"></center><center><img src="https://user-images.githubusercontent.com/66079830/90981817-19e12380-e59e-11ea-99b2-7568c7b948f8.png" width="500px" height="200px"></center>
+
 
 
 ### 📼 Appearance
