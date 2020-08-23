@@ -89,8 +89,8 @@
 </table>
 
 ## 프로젝트 소감
-<table>
-    <tr style="width:740px;>
+<table style="width:740px;>
+    <tr>
         <th>한시연</th>
     </tr>
     <tr>
