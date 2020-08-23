@@ -1,6 +1,6 @@
 ## :gem:경판정과 연판정 프로젝트
 
-<center><img src="https://user-images.githubusercontent.com/66079830/90397894-827a5d00-e0d3-11ea-9b71-ffeed0761cbe.png" width="700px" height="300px"></center>
+<center><img src="https://user-images.githubusercontent.com/66079830/90982801-b1497500-e5a4-11ea-8d4a-929c22438f46.png" width="700px" height="300px"></center>
     
 ### 👋 Introduction
 <table>
