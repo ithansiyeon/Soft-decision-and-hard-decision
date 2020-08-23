@@ -46,7 +46,7 @@
 </table>
 
 ### :calendar: Result
-<center><img src="https://user-images.githubusercontent.com/66079830/89960517-36b25880-dc7a-11ea-94f8-bd76d2685ddd.png" width="500px" height="300px"></center>
+<center><img src="https://user-images.githubusercontent.com/66079830/89960517-36b25880-dc7a-11ea-94f8-bd76d2685ddd.png" width="500px" height="200px"></center>
 
 
 ### 📼 Appearance
