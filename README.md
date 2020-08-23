@@ -88,7 +88,7 @@
     </tr>
 </table>
 
-## 프로젝트 소감
+## :memo: 프로젝트 소감
 
 <table style="width:500px;">
     <tr>
