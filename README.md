@@ -90,7 +90,7 @@
 
 ## 프로젝트 소감
 
-<table style="width:740px;>
+<table style="width:740px;">
     <tr>
         <th>한시연</th>
     </tr>
