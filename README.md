@@ -48,7 +48,7 @@
 ###  📼 Appearance
 경판정 결과 캡쳐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 연판정 결과 캡쳐
 
-<img src="https://user-images.githubusercontent.com/66079830/90981801-046bf980-e59e-11ea-912b-db6d6fa96236.png" width="740px" height="300px"><img src="https://user-images.githubusercontent.com/66079830/90981817-19e12380-e59e-11ea-99b2-7568c7b948f8.png" width="400px" height="300px">
+<img src="https://user-images.githubusercontent.com/66079830/90981801-046bf980-e59e-11ea-912b-db6d6fa96236.png" width="400px" height="300px"><img src="https://user-images.githubusercontent.com/66079830/90981817-19e12380-e59e-11ea-99b2-7568c7b948f8.png" width="400px" height="300px">
 
 
 
@@ -60,7 +60,7 @@
         <th colspan="4">구현 코드</th>
     </tr>
     <tr>
-        <th colspan="4"><img width="740"
+        <th colspan="4"><img width="760"
                 src="https://user-images.githubusercontent.com/66079830/90981993-49446000-e59f-11ea-9035-cee95141ca0f.gif">
         </th>
     </tr>
