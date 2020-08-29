@@ -15,7 +15,7 @@
         <th>통신부호화 프로젝트</th>
         <th>개발인원</th>
         <th>팀 / 3명<br>
-            (<a href="https://github.com/ithansiyeon?tab=repositories" target="_blank">한시연</a>｜차주연｜신혜수)
+            (<a href="https://github.com/ithansiyeon" target="_blank">한시연</a>｜차주연｜신혜수)
         </th>
     </tr>
     <tr>
