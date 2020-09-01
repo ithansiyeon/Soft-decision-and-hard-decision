@@ -21,9 +21,7 @@
     </tr>
     <tr>
         <th>프로젝트 개요</th>
-        <th>매트랩으로 구현한 경판정과 연판정 프로젝트</th>
-        <th>개발환경&nbsp;</th>
-        <th>Windows10</th>
+        <th colspan="3">매트랩으로 구현한 경판정과 연판정 프로젝트</th>
     </tr>
     <tr>
         <th colspan="5">사용 도구</th>
