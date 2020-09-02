@@ -92,7 +92,7 @@
     <tr>
         <td>한시연</td>
         <td>경판정 코딩</td>
-        <td style="text-align:center;" rowspan="3">보고서 작성, 연판정·경판정 학습, 상호 역할 피드백, <br>버그 수정</td>
+        <td style=" text-align:center;" rowspan="3">보고서 작성, 연판정·경판정 학습, 상호 역할 피드백, <br>버그 수정</td>
     </tr>
     <tr>
         <td>차주연</td>
